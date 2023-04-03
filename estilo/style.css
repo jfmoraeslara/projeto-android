@@ -48,7 +48,7 @@ header > h1 {
     color: white;
     font-family: var(--font-destaque);
     font-size: 3em;
-    font-weight: normal;
+    font-weight: normal;        
     margin-bottom: 20px;
     text-shadow: 2.5px 2.5px 0px rgba(0, 0, 0, 0.30);
 }
@@ -56,11 +56,12 @@ header > h1 {
 header > p {
     color: white;
     font-family: var(--font-padrao);
-    font-size: 1.2em;    
-    width: 500xp;
+    font-size: 1.2em;              
+    width: 400px;
+    margin: auto;
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 30px;    
+    padding-bottom: 30px;      
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.30);
 }
 
